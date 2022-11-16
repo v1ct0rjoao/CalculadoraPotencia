@@ -1,0 +1,1 @@
+# caculadora-de-pot-ncia-
