@@ -7,6 +7,9 @@ public class Multiplicacao {
     //a multiplicação é a soma de fatores n vezes => 9*2 é o mesmo que 9 +9 = 18
     //certo? entao podemos uma um loop para isso
     //vamos criar um metodo certo
+    //2² = 2*2
+    
+    
 
 
     public int Multiplicar(int fator1, int fator2)
