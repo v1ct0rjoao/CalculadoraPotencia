@@ -1,0 +1,15 @@
+
+        // if(n == -n)
+        // {
+        //     while(contador < p)
+        //     {
+        //        resultado = 1 / multi.Multiplicar(resultado, resultado); 
+        //        // nesse caso ele vai pegar a multiplicação e fazer usando p como parametro de quantidade de vezes
+        //        //la no outro metodo
+        //        contador++;
+        //     }
+
+
+        // }
+        // else{
+        // 
